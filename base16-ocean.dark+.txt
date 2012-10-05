@@ -46,10 +46,10 @@ foreground: C0C5CE
 background: 4F5B66
 
 LIST_BULLET
-foreground: CB716E
+foreground: BF616A
 
 LIST_ENUMERATOR
-foreground: CB716E
+foreground: BF616A
 
 LINK
 foreground: D08770
