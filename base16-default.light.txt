@@ -1,76 +1,76 @@
 editor
-foreground: 303030
-background: f5f5f5
-caret: 303030
+foreground: 383838
+background: f8f8f8
+caret: 383838
 
 editor-selection
-foreground: 303030
-background: d0d0d0
+foreground: 383838
+background: d8d8d8
 
 H1
-foreground: 6a9fb5
+foreground: 7cafc2
 font-style: bold
 
 H2
-foreground: 6a9fb5
+foreground: 7cafc2
 font-style: bold
 
 H3
-foreground: 6a9fb5
+foreground: 7cafc2
 
 H4
-foreground: 6a9fb5
+foreground: 7cafc2
 
 H5
-foreground: 6a9fb5
+foreground: 7cafc2
 
 H6
-foreground: 6a9fb5
+foreground: 7cafc2
 
 EMPH
-foreground: aa759f
+foreground: ba8baf
 font-style: italic
 
 STRONG
-foreground: f4bf75
+foreground: f7ca88
 font-style: bold
 
 HRULE
-foreground: 303030
-background: d0d0d0
+foreground: 383838
+background: d8d8d8
 
 LIST_BULLET
-foreground: ac4142
+foreground: ab4642
 
 LIST_ENUMERATOR
-foreground: ac4142
+foreground: ab4642
 
 LINK
-foreground: d28445
+foreground: dc9656
 
 AUTO_LINK_URL
-foreground: 75b5aa
+foreground: 86c1b9
 
 AUTO_LINK_EMAIL
-foreground: 75b5aa
+foreground: 86c1b9
 
 REFERENCE
-foreground: b0b0b0
+foreground: b8b8b8
 
 IMAGE
-foreground: 75b5aa
+foreground: 86c1b9
 
 CODE
-foreground: 90a959
+foreground: a1b56c
 
 VERBATIM
-foreground: 90a959
+foreground: a1b56c
 
 HTML_ENTITY
-foreground: 8f5536
+foreground: a16946
 
 COMMENT
-foreground: 505050
+foreground: 585858
 
 BLOCKQUOTE
-foreground: d28445
+foreground: dc9656
